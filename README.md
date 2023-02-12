@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **Pola.PFA@gmail.com**
 
-- 📄 Know about my experiences [[here](https://drive.google.com/file/d/1b8bL6IaSSBi_6nMmz2PdU-DOF3ZjUaVR/view?usp=share_link)](here)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1b8bL6IaSSBi_6nMmz2PdU-DOF3ZjUaVR/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
