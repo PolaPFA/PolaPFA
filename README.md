@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pola Farag Asaad</h1>
 <h3 align="center">A passionate Data Scientist, and creative UI/UX designer from Egypt</h3>
 
-- 🔭 I’m currently working as **Teaching Assistant**
+- 🔭 I’m currently working as **Data Engineer**
 
 - 📫 How to reach me **Pola.PFA@gmail.com**
 
